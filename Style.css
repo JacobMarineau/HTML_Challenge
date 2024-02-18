@@ -1,20 +1,51 @@
-.header {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-}
-
 h1 {
     margin: auto;
     width: 50%;
-    padding: 10px;
+    padding-top: 20px;
 }
+
+p {
+    text-align: left;
+}
+
+.body_head {
+    text-align: left;
+    padding: 0px 10px 0px 0px;
+}
+
+.header {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+
 
 .page_style {
     margin-top: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
-    padding: 10px 100px 10px 100px;
+    padding: 10px 100px 100px 100px;
     border-radius: 8px;
     background-color: gray;
 }
+
+.work1 {
+    text-align: left;
+}
+
+.work4 {
+    text-align: left;
+}
+
+#title {
+    font-weight: 600;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#date {
+    font-weight: lighter;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#container {}
